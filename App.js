@@ -10,6 +10,15 @@ class App extends React.Component {
             </div>
         );
     }
+
+    renderCity() {
+        return (
+            <div>
+                <h2>Polska</h2>
+            </div>
+        )
+    }
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.renderCity(<App />, document.getElementById('city'));
