@@ -16,7 +16,7 @@ class App extends React.Component {
             <div>
                 <h2>Polska</h2>
             </div>
-        )
+        );
     }
 
     renderAge() {
@@ -24,7 +24,7 @@ class App extends React.Component {
             <div>
                 <h2>26</h2>
             </div>
-        )
+        );
     }
 
     renderJob() {
@@ -32,7 +32,7 @@ class App extends React.Component {
             <div>
                 <h2>WebDeveloper Programmer</h2>
             </div>
-        )
+        );
     }
 }
 
