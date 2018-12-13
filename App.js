@@ -37,6 +37,6 @@ class App extends React.Component {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.renderCity(<App />, document.getElementById('city'));
-ReactDOM.renderAge(<App />, document.getElementById('age'));
-ReactDOM.renderJob(<App />, document.getElementById('job'));
+// ReactDOM.renderCity(<App />, document.getElementById('city'));
+// ReactDOM.renderAge(<App />, document.getElementById('age'));
+// ReactDOM.renderJob(<App />, document.getElementById('job'));
